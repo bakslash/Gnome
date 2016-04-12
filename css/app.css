@@ -24,9 +24,24 @@ h2 {
 .content {
     margin-left: 5%;
     padding-bottom: 2%;
+    border-bottom-style: solid;
+    border-bottom-color: #DFD9D8;
+    border-bottom-width: 15px;
 }
 
 .logo {
-    padding: 50px;
     margin-left: 50px;
+    padding: 50px;
+    border-bottom-style: solid;
+    border-bottom-color: #DFD9D8;
+    border-bottom-width: 15px;
+}
+
+
+}
+.logos {
+    padding-bottom: 50px;
+}
+.desc {
+    padding-bottom: 10px;
 }
