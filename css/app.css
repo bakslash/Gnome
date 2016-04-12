@@ -40,8 +40,17 @@ h2 {
 
 }
 .logos {
-    padding-bottom: 50px;
+    padding-bottom: 80px;
 }
 .desc {
     padding-bottom: 10px;
+}
+.logo2 {
+    padding-bottom: 80px;
+}
+.pic {
+    padding-left: 90px;
+}
+.text {
+    text-align: center;
 }
