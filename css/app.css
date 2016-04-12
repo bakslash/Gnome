@@ -1,4 +1,18 @@
 .first {
     background-image: url(../images/big_img.jpg);
-    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover
+}
+
+h1 {
+    color: yellow;
+    background-color: dimgrey;
+    padding: 10px;
+    font-size: 62px
+}
+
+.topic {
+    margin: 0;
+    padding-top: 40px;
+    padding-bottom: 40px;
 }
